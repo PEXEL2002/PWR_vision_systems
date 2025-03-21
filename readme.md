@@ -10,6 +10,7 @@ To repozytorium zawiera zestaw zadań laboratoryjnych realizowanych w ramach kur
 | Lab 2        | Filtracja splotowa                             | Wczytywanie jądra z klawiatury, konwolucja, wyświetlanie przetworzonego obrazu |
 | Lab 3        | *(miejsce na kolejne zadania)*                 | -                                                                         |
 
+
 ## 📂 Struktura folderów
 
 Każdy folder zawiera:
