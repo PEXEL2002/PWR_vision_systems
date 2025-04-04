@@ -9,7 +9,8 @@ To repozytorium zawiera zestaw zadań laboratoryjnych realizowanych w ramach kur
 | Lab 1        | Rysowanie figur na obrazie | Wczytywanie obrazu, rysowanie koła, prostokąta i elipsy, zapis wyniku          |
 | Lab 2        | Filtracja splotowa         | Wczytywanie jądra z klawiatury, konwolucja, wyświetlanie przetworzonego obrazu |
 | Lab 3        | Progowanie obrazu          | Progowanie proste, adaptacyjne i metodą Otsu na obrazie termowizyjnym          |
-| Lab 4        | -                          | -                                                                              |
+| Lab 4        | Konturowanie i morfologia  | Konturowanie, progowanie, otwarcie i zamknięcie morfologiczne, czyszczenie obrazu |
+| Lab 5        | -                          | -                                                                              |
 
 ## 📂 Struktura folderów
 
