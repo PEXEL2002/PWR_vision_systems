@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 image_path = 'rynek_frag.jpg'
-angle = -30
+angle = 30
 maxCorners = 100
 qualityLevel = 0.4
 minDistance = 10
