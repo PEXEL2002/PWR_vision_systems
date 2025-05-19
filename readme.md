@@ -4,14 +4,15 @@ To repozytorium zawiera zestaw zadań laboratoryjnych realizowanych w ramach kur
 
 ## 🧠 Tematyka laboratoriów
 
-| Laboratorium | Temat                              | Zawartość                                                                                         |
-|--------------|-------------------------------------|---------------------------------------------------------------------------------------------------|
-| Lab 1        | Rysowanie figur na obrazie          | Wczytywanie obrazu, rysowanie koła, prostokąta i elipsy, zapis wyniku                            |
-| Lab 2        | Filtracja splotowa                  | Wczytywanie jądra z klawiatury, konwolucja, wyświetlanie przetworzonego obrazu                   |
-| Lab 3        | Progowanie obrazu                   | Progowanie proste, adaptacyjne i metodą Otsu na obrazie termowizyjnym                            |
-| Lab 4        | Konturowanie i morfologia           | Konturowanie, progowanie, otwarcie i zamknięcie morfologiczne, czyszczenie obrazu                |
-| Lab 5        | Wyrównanie kartki względem obrazu   | Rozmycie, progowanie, transformata Hougha, wykrywanie kątów, wyrównanie kartki, obrazy pośrednie |
+| Laboratorium | Temat                                 | Zawartość                                                                                         |
+|--------------|----------------------------------------|---------------------------------------------------------------------------------------------------|
+| Lab 1        | Rysowanie figur na obrazie             | Wczytywanie obrazu, rysowanie koła, prostokąta i elipsy, zapis wyniku                            |
+| Lab 2        | Filtracja splotowa                     | Wczytywanie jądra z klawiatury, konwolucja, wyświetlanie przetworzonego obrazu                   |
+| Lab 3        | Progowanie obrazu                      | Progowanie proste, adaptacyjne i metodą Otsu na obrazie termowizyjnym                            |
+| Lab 4        | Konturowanie i morfologia              | Konturowanie, progowanie, otwarcie i zamknięcie morfologiczne, czyszczenie obrazu                |
+| Lab 5        | Wyrównanie kartki względem obrazu      | Rozmycie, progowanie, transformata Hougha, wykrywanie kątów, wyrównanie kartki, obrazy pośrednie |
 | Lab 6        | Stabilność punktów charakterystycznych | Detekcja rogów (goodFeaturesToTrack), obrót obrazu, porównanie punktów przed i po transformacji  |
+| Lab 7        | Śledzenie wskaźnika laserowego         | Animacja z sekwencji klatek, wykrywanie najjaśniejszego punktu, obliczanie ΔX/ΔY między klatkami, zapis GIF |
 
 ## 📂 Struktura folderów
 
