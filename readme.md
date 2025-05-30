@@ -14,7 +14,7 @@ To repozytorium zawiera zestaw zadań laboratoryjnych realizowanych w ramach kur
 | Lab 6        | Stabilność punktów charakterystycznych | Detekcja rogów (goodFeaturesToTrack), obrót obrazu, porównanie punktów przed i po transformacji  |
 | Lab 7        | Śledzenie wskaźnika laserowego         | Animacja z sekwencji klatek, wykrywanie najjaśniejszego punktu, obliczanie ΔX/ΔY między klatkami, zapis GIF |
 | Lab 8        | Progowanie w przestrzeni HSV           | Konwersja obrazu do HSV, progowanie kanału H, izolacja obiektu (kwiatu) z tła, zapis wyników     |
-
+| Lab 9        | Wyrównanie histogramu obrazu           | Przekształcenie do odcieni szarości, wyznaczenie histogramu, wyrównanie histogramu, zapis wyników |
 ## 📂 Struktura folderów
 
 Każdy folder zawiera:
