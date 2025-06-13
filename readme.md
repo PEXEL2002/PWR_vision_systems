@@ -15,6 +15,9 @@ To repozytorium zawiera zestaw zadań laboratoryjnych realizowanych w ramach kur
 | Lab 7        | Śledzenie wskaźnika laserowego         | Animacja z sekwencji klatek, wykrywanie najjaśniejszego punktu, obliczanie ΔX/ΔY między klatkami, zapis GIF |
 | Lab 8        | Progowanie w przestrzeni HSV           | Konwersja obrazu do HSV, progowanie kanału H, izolacja obiektu (kwiatu) z tła, zapis wyników     |
 | Lab 9        | Wyrównanie histogramu obrazu           | Przekształcenie do odcieni szarości, wyznaczenie histogramu, wyrównanie histogramu, zapis wyników |
+| Lab 10       | *(Nie odbyło się)*                     | –                                                                                                 |
+| Lab 11       | Korekcja temperatury barwowej (White Balance) | Wybranie białego obszaru obrazu, obliczenie średnich składowych BGR, przeskalowanie całego obrazu w celu uzyskania neutralnej bieli |
+
 ## 📂 Struktura folderów
 
 Każdy folder zawiera:
